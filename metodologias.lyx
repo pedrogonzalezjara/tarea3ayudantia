@@ -1,0 +1,202 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Metodologías de Desarrollo
+\end_layout
+
+\begin_layout Author
+Pedro González - Andrés Mardones - Camilo Candia
+\end_layout
+
+\begin_layout Date
+4 de junio de 2014
+\end_layout
+
+\begin_layout Section
+Metodologia ágil y tradicional
+\end_layout
+
+\begin_layout Standard
+Desarrollar un buen software depende de un gran número de actividades y
+ etapas, donde el impacto de elegir la metodología para un equipo en un
+ determinado proyecto es trascendental para el éxito del producto.
+ Según la filosofía de desarrollo se pueden clasificar las metodologías
+ en dos grupos.
+ Las metodologías tradicionales, que se basan en una fuerte planificación
+ durante todo el desarrollo, y las metodologías ágiles, en las que el desarrollo
+ de software es incremental, cooperativo, sencillo y adaptado.
+ Son muchas las ventajas que puede aportar el uso de una metodología.
+ A continuación se van a exponer algunas de ellas, clasificadas desde distintos
+ puntos de vista.
+ 
+\end_layout
+
+\begin_layout Description
+Desde el punto de vista de gestión:
+\end_layout
+
+\begin_layout Itemize
+Facilitar la tarea de planificación 
+\end_layout
+
+\begin_layout Itemize
+Facilitar la tarea del control y seguimiento de un proyecto
+\end_layout
+
+\begin_layout Itemize
+Mejorar la relación coste/beneficio 
+\end_layout
+
+\begin_layout Itemize
+Optimizar el uso de recursos disponibles
+\end_layout
+
+\begin_layout Itemize
+Facilitar la evaluación de resultados y cumplimiento de los objetivos 
+\end_layout
+
+\begin_layout Itemize
+Facilitar la comunicación efectiva entre usuarios y desarrolladores 
+\end_layout
+
+\begin_layout Description
+Desde el punto de vista de los ingenieros del software: 
+\end_layout
+
+\begin_layout Itemize
+Ayudar a la comprensión del problema 
+\end_layout
+
+\begin_layout Itemize
+Optimizar el conjunto y cada una de las fases del proceso de desarrollo
+\end_layout
+
+\begin_layout Itemize
+Facilitar el mantenimiento del producto final
+\end_layout
+
+\begin_layout Itemize
+Permitir la reutilización de partes del producto 
+\end_layout
+
+\begin_layout Description
+Desde el punto de vista del cliente o usuario:
+\end_layout
+
+\begin_layout Itemize
+Garantía de un determinado nivel de calidad en el producto final
+\end_layout
+
+\begin_layout Itemize
+Confianza en los plazos de tiempo fijados en la definición del proyecto
+\end_layout
+
+\begin_layout Itemize
+Definir el ciclo de vida que más se adecue a las condiciones y características
+ del desarrollo 
+\end_layout
+
+\begin_layout Standard
+Las metodologías tradicionales son denominadas, a veces, de forma peyorativa,
+ como metodologías pesadas.
+ Centran su atención en llevar una documentación exhaustiva de todo el proyecto
+ y en cumplir con un plan de proyecto, definido todo esto, en la fase inicial
+ del desarrollo del proyecto.
+ Otra de las características importantes dentro de este enfoque, son los
+ altos costes al implementar un cambio y la falta de flexibilidad en proyectos
+ donde el entorno es volátil.
+ Las metodologías tradicionales (formales) se focalizan en la documentación,
+ planificación y procesos (plantillas, técnicas de administración, revisiones,
+ etc.) La metodología ágil nace como respuesta a los problemas que puedan
+ ocasionar las metodologías tradicionales y se basa en dos aspectos fundamentale
+s, retrasar las decisiones y la planificación adaptativa.
+ Basan su fundamento en la adaptabilidad de los procesos de desarrollo.
+ Estas metodologías ponen de relevancia que la capacidad de respuesta a
+ un cambio es más importante que el seguimiento estricto de un plan.
+ 
+\end_layout
+
+\begin_layout Section
+Cuadro Comparativo
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cuadro.jpg
+	scale 90
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
