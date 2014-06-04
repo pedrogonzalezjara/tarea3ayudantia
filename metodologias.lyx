@@ -90,6 +90,7 @@ Desarrollar un buen software depende de un gran número de actividades y
  determinado proyecto es trascendental para el éxito del producto.
  Según la filosofía de desarrollo se pueden clasificar las metodologías
  en dos grupos.
+ 
  Las metodologías tradicionales, que se basan en una fuerte planificación
  durante todo el desarrollo, y las metodologías ágiles, en las que el desarrollo
  de software es incremental, cooperativo, sencillo y adaptado.
@@ -167,17 +168,21 @@ Definir el ciclo de vida que más se adecue a las condiciones y características
 \begin_layout Standard
 Las metodologías tradicionales son denominadas, a veces, de forma peyorativa,
  como metodologías pesadas.
+ 
  Centran su atención en llevar una documentación exhaustiva de todo el proyecto
  y en cumplir con un plan de proyecto, definido todo esto, en la fase inicial
  del desarrollo del proyecto.
+ 
  Otra de las características importantes dentro de este enfoque, son los
  altos costes al implementar un cambio y la falta de flexibilidad en proyectos
  donde el entorno es volátil.
+ 
  Las metodologías tradicionales (formales) se focalizan en la documentación,
  planificación y procesos (plantillas, técnicas de administración, revisiones,
  etc.) La metodología ágil nace como respuesta a los problemas que puedan
  ocasionar las metodologías tradicionales y se basa en dos aspectos fundamentale
 s, retrasar las decisiones y la planificación adaptativa.
+
  Basan su fundamento en la adaptabilidad de los procesos de desarrollo.
  Estas metodologías ponen de relevancia que la capacidad de respuesta a
  un cambio es más importante que el seguimiento estricto de un plan.
@@ -191,7 +196,7 @@ Cuadro Comparativo
 \begin_layout Standard
 \begin_inset Graphics
 	filename cuadro.jpg
-	scale 90
+	scale 85
 
 \end_inset
 
